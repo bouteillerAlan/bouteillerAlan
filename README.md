@@ -1,6 +1,6 @@
 <div>
 <div>
-<img align="left" src="https://github.com/bouteillerAlan/bouteillerAlan/blob/master/grevious.png" />
+<img style="z-index: 99; position: relative;" align="left" src="https://github.com/bouteillerAlan/bouteillerAlan/blob/master/grevious.png" />
 </div>
 <div>
 <h2>Hello there</h2>
