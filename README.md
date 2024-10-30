@@ -9,6 +9,10 @@ I'm A2N 👋<br/>
 I currently code mainly for pleasure. <br/><br/>
 If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
 </div>
+
+<div>
+If you come here for my KDE project check the pinned project just bellow 👇
+</div>
 </div>
 
 <p align="center">
