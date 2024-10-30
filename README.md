@@ -8,13 +8,13 @@
 I'm A2N 👋<br/>
 I currently code mainly for pleasure. <br/><br/>
 If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
-</div>
 
-<div>
 If you come here for my KDE project check the pinned project just bellow 👇
-
-If you want to support my work, check my [sponsor page](https://github.com/sponsors/bouteillerAlan) or my [coffee page](https://buymeacoffee.com/a2n.dev).
   
+If you want to support my work, check my [sponsor page](https://github.com/sponsors/bouteillerAlan) or my [coffee page](https://buymeacoffee.com/a2n.dev).
+
+That mean a lot thanks you ❤️
+
 </div>
 <div>
 </div></div>
