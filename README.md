@@ -11,11 +11,13 @@ If you want help with project management or development, or just chat with me : 
 </div>
 
 <div>
-If you come here for my KDE project check the pinned project just bellow 
+If you come here for my KDE project check the pinned project just bellow 👇
+
+If you want to support my work, check my [sponsor page](https://github.com/sponsors/bouteillerAlan) or my [coffee page](https://buymeacoffee.com/a2n.dev).
   
 </div>
-
-</div>
+<div>
+</div></div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-bouteiller/">
