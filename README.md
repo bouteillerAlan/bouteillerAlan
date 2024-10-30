@@ -11,8 +11,10 @@ If you want help with project management or development, or just chat with me : 
 </div>
 
 <div>
-If you come here for my KDE project check the pinned project just bellow 👇
+If you come here for my KDE project check the pinned project just bellow 
+  
 </div>
+
 </div>
 
 <p align="center">
