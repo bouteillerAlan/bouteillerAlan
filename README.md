@@ -5,12 +5,12 @@
 <div>
 <h2>Hello there</h2>
 
-I'm A2N 👋<br/>
-I currently code mainly for pleasure. <br/><br/>
+I'm Alan [A2N] Bouteiller 👋<br/>
+I make open-source projects, often out of a desire for discovery, all the time out of a desire to share!<br/><br/>
+
 If you want help with project management or development, or just chat with me : a2n.dev[at]pm.me
 
-If you come here for my KDE project check the pinned project just bellow 👇
-  
+If you come here for my KDE project check the pinned project just bellow 👇  
 If you want to support my work, check my [sponsor page](https://github.com/sponsors/bouteillerAlan) or my [coffee page](https://buymeacoffee.com/a2n.dev).
 
 That mean a lot thanks you ❤️
