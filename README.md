@@ -21,7 +21,7 @@
 
 ### What I Do
 
-- **Project Management / Development / CTO stuff** — Need help? Just email me: `a2n.dev[at]pm.me`
+- **Project Management / Development / CTO stuff** — Need help? Just email me: `hi[at]a2n.dev`
 - **Open Source** — Check the pinned ones below 👇 or the [Results May Vary](https://github.com/results-may-vary-org) org page
 
 ---
@@ -38,5 +38,5 @@ If you enjoy my projects [sponsor me on GitHub](https://github.com/sponsors/bout
 </p>
 
 <p align="center">
-  <em>“Thanks for stopping by — may your bugs be few and your commits legendary!” ❤️</em>
+  <em>Thanks for stopping by ❤️</em>
 </p>
