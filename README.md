@@ -38,5 +38,9 @@ If you enjoy my projects [sponsor me on GitHub](https://github.com/sponsors/bout
 </p>
 
 <p align="center">
+  <a href="https://app.tuta.com/signup?ref=S3NkaGQxNTQ&s=0">Use private email get an account on Tuta</a>
+</p>
+
+<p align="center">
   <em>Thanks for stopping by ❤️</em>
 </p>
