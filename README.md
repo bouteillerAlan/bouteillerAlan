@@ -40,6 +40,7 @@ If you enjoy my projects [sponsor me on GitHub](https://github.com/sponsors/bout
 
 <p align="center">
   <a href="https://app.tuta.com/signup?ref=S3NkaGQxNTQ&s=0">Use private email get an account on Tuta</a>
+  <a href="https://team-planet.com/en/invites/H4T2p_hOS_s">Fight climate change with Team for the Planet!</a>
 </p>
 
 <p align="center">
