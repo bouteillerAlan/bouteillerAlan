@@ -16,7 +16,7 @@
 - You can find my blog post on [dev.to](https://dev.to/a2nof), old one on [medium](https://a2nb.medium.com/)
 - You can also check:
   - [my personal website](https://alanbouteiller.pm/)
-  - [Results May Vary website](https://results-may-vary-org.github.io/rmv-frontpage/)
+  - [Results May Vary website](https://rmv.a2n.dev)
 
 ---
 
